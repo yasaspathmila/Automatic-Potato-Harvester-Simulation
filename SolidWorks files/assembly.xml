@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="12/12/23||11:02:38" using="Simscape Multibody Link Version 7.4" from="SolidWorks 29.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="test1" uid="test1" version="382">
+<AssemblyFile name="test1.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="brush-2" uid="brush-2" entityUid="brush*:*Default">
+<Transform>
+<Rotation>3.2585384723303959e-15 1.7475754385461685e-15 1 -0.86325986032435686 -0.50475975825413433 3.6950712223769074e-15 0.50475975825413433 -0.86325986032435686 -1.3616736256964457e-16</Rotation>
+<Translation>0.28569637950264626 1.2751052289938591 0.78945373079384307</Translation>
+</Transform>
+</Instance>
+<Instance name="brush support-3" uid="brush support-3" entityUid="brush support*:*Default">
+<Transform>
+<Rotation>-1.13099258525608e-15 -3.4113231433781901e-15 -1 0.33262113046969077 0.94306054077406143 -3.593276280610022e-15 0.94306054077406143 -0.33262113046969077 0</Rotation>
+<Translation>0.79453960815743219 1.2751052289938551 0.78945373079383441</Translation>
+</Transform>
+</Instance>
+<Instance name="stand-1" uid="stand-1" grounded="true" entityUid="stand*:*Default">
+<Transform>
+<Rotation>0 -1 -3.4914813388431334e-15 -3.4914813388431334e-15 -3.4914813388431334e-15 1 -1 0 -3.4914813388431334e-15</Rotation>
+<Translation>0.56990665851203681 0.66010522899386204 1.3194537307938454</Translation>
+</Transform>
+</Instance>
+<Instance name="brush support-2" uid="brush support-2" entityUid="brush support*:*Default">
+<Transform>
+<Rotation>4.8625314130067188e-16 3.5608745694038434e-15 -0.99999999999999989 -0.15404442277538058 -0.98806392293808609 -3.5932762806100078e-15 -0.98806392293808609 0.15404442277538058 0</Rotation>
+<Translation>0.79310523405649302 1.2751052289938605 0.56945373079384687</Translation>
+</Transform>
+</Instance>
+<Instance name="brush-1" uid="brush-1" entityUid="brush*:*Default">
+<Transform>
+<Rotation>-3.0082919475356138e-15 1.8227621497868234e-15 1 0.9096117330322161 -0.41545937843564057 3.493661281651176e-15 0.41545937843564057 0.9096117330322161 -4.0818273529703064e-16</Rotation>
+<Translation>0.28441923151057308 1.2751052289938585 0.5694537307938432</Translation>
+</Transform>
+</Instance>
+<Instance name="brush support-4" uid="brush support-4" entityUid="brush support*:*Default">
+<Transform>
+<Rotation>-1.4197548172691416e-15 -3.3016005323619751e-15 -0.99999999999999989 0.41237574804808075 0.91101385413273805 -3.5932762806100109e-15 0.91101385413273805 -0.41237574804808075 0</Rotation>
+<Translation>0.79651044093261247 1.275105228993856 1.0094537307938365</Translation>
+</Transform>
+</Instance>
+<Instance name="wheel support-4" uid="wheel support-4" entityUid="wheel support*:*Default">
+<Transform>
+<Rotation>9.651254981325063e-16 -3.4619073629007421e-15 -1 -0.25024741730008743 0.96818191995855629 -3.593276280610022e-15 0.96818191995855629 0.25024741730008743 0</Rotation>
+<Translation>0.83305180869700357 1.4701052289938654 2.0494537307938323</Translation>
+</Transform>
+</Instance>
+<Instance name="wheel support-2" uid="wheel support-2" entityUid="wheel support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 6.9829626776862667e-15 0 -6.9829626776862667e-15 -1</Rotation>
+<Translation>0.39490665851203566 1.0051052289938482 1.2333721916708196</Translation>
+</Transform>
+</Instance>
+<Instance name="wheel support-3" uid="wheel support-3" entityUid="wheel support*:*Default">
+<Transform>
+<Rotation>0.98490565394564522 -0.17309203570904455 0 -0.17309203570904455 -0.98490565394564522 -3.3713745130754695e-15 5.600036263518496e-16 3.3246253915468866e-15 -1</Rotation>
+<Translation>0.66490665851203379 1.0051052289938507 1.2102147821916351</Translation>
+</Transform>
+</Instance>
+<Instance name="brush-3" uid="brush-3" entityUid="brush*:*Default">
+<Transform>
+<Rotation>2.1698097216617581e-15 2.9939971043488256e-15 0.99999999999999978 -0.55660218468753453 -0.83077915717780471 3.6950712223768908e-15 0.83077915717780471 -0.55660218468753453 -1.3616736256965394e-16</Rotation>
+<Translation>0.28836084912956955 1.27510522899386 1.0094537307938429</Translation>
+</Transform>
+</Instance>
+<Instance name="fan-3" uid="fan-3" entityUid="fan*:*Default">
+<Transform>
+<Rotation>-0.54626717580411177 0.8376109912357883 0 -0.8376109912357883 -0.54626717580411177 3.3713745130754829e-15 2.8369645671370997e-15 1.8216393991276645e-15 1</Rotation>
+<Translation>0.39490665851203577 1.0051052289938613 1.2039309389293109</Translation>
+</Transform>
+</Instance>
+<Instance name="filter sheet-6" uid="filter sheet-6" entityUid="filter sheet*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000002 3.4852345383378776e-15 3.4904253478373629e-15 -3.4852345383378807e-15 -1 0.99999999999999989 0 3.4904253478373633e-15</Rotation>
+<Translation>0.488244442636807 1.440105228993863 1.6496265085052308</Translation>
+</Transform>
+</Instance>
+<Instance name="wheel-1" uid="wheel-1" entityUid="wheel*:*Default">
+<Transform>
+<Rotation>-3.4843079683021378e-15 2.0301692176916231e-15 -0.99999999999999989 0.84974566577462329 -0.52719285228201107 -4.0310662947787089e-15 -0.52719285228201107 -0.84974566577462329 1.1177476251562849e-16</Rotation>
+<Translation>0.78415541866428706 1.4701052289938652 2.0494537307938425</Translation>
+</Transform>
+</Instance>
+<Instance name="fan-2" uid="fan-2" entityUid="fan*:*Default">
+<Transform>
+<Rotation>-0.65798322766181461 0.75303258370122383 0 -0.75303258370122383 -0.65798322766181461 3.3713745130754628e-15 2.5544908180609255e-15 2.2002987788225207e-15 1</Rotation>
+<Translation>0.66490665851203556 1.0051052289938618 1.2010543412901367</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>stand-1</Uid>
+</InstancePath>
+<Position>0.75000000000000011 -0.28499999999999992 0.6150000000000001</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>brush support-2</Uid>
+</InstancePath>
+<Position>0 -2.2204460492503131e-16 -0.099999999999999978</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric5">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>brush support-2</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0 0.50999999999999979</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>brush-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>stand-1</Uid>
+</InstancePath>
+<Position>0.53000000000000014 -0.28499999999999992 0.6150000000000001</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>brush support-3</Uid>
+</InstancePath>
+<Position>2.2204460492503131e-16 0 -0.099999999999999978</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>stand-1</Uid>
+</InstancePath>
+<Position>0.31000000000000028 -0.28499999999999992 0.6150000000000001</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>brush support-4</Uid>
+</InstancePath>
+<Position>0 2.2204460492503131e-16 -0.099999999999999978</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>brush support-3</Uid>
+</InstancePath>
+<Position>0 2.2204460492503131e-16 0.51000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>brush-2</Uid>
+</InstancePath>
+<Position>2.2204460492503131e-16 2.2204460492503131e-16 0.50000000000000022</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>brush support-4</Uid>
+</InstancePath>
+<Position>0 2.2204460492503131e-16 0.50999999999999979</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>brush-3</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0 0.49999999999999994</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>stand-1</Uid>
+</InstancePath>
+<Position>0.09000000000000008 -0.094999999999999973 0.34500000000000008</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>wheel support-3</Uid>
+</InstancePath>
+<Position>0 0 -0.060000000000000053</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>stand-1</Uid>
+</InstancePath>
+<Position>0.09000000000000008 0.1750000000000001 0.34500000000000008</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>wheel support-2</Uid>
+</InstancePath>
+<Position>0 0 -0.060000000000000053</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>wheel support-3</Uid>
+</InstancePath>
+<Position>0 0 0.050000000000000044</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>fan-2</Uid>
+</InstancePath>
+<Position>-2.2204460492503131e-16 1.3877787807814457e-16 -0.040000000000000036</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>wheel support-2</Uid>
+</InstancePath>
+<Position>0 0 0.050000000000000044</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>fan-3</Uid>
+</InstancePath>
+<Position>2.2204460492503131e-16 0 -0.040000000000000036</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric16">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>stand-1</Uid>
+</InstancePath>
+<Position>-0.7300000000000002 -0.28499999999999992 0.81000000000000016</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>wheel support-4</Uid>
+</InstancePath>
+<Position>0 -2.2204460492503131e-16 -0.060000000000000053</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>wheel support-4</Uid>
+</InstancePath>
+<Position>0 0 0.050000000000000044</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>wheel-1</Uid>
+</InstancePath>
+<Position>-2.2204460492503131e-16 0 -0.030000000000000027</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>stand-1</Uid>
+</InstancePath>
+<Position>-0.47999999999999998 -0.17499999999999982 0.77999999999999992</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>filter sheet-6</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Tangent name="Tangent20">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>wheel-1</Uid>
+</InstancePath>
+<Position>-0.070000000000000284 0 0.035000000000000031</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>filter sheet-6</Uid>
+</InstancePath>
+<Position>0.4407307219483525 -0.27000000000000024 0.12548597585241139</Position>
+<Axis>-0.99999999999999989 0 -2.3129646346357375e-16</Axis>
+</ConstraintGeometry>
+</Tangent>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="brush support" uid="brush support*:*Default" version="131">
+<ModelUnits mass="kilogram" length="centimeter"/>
+<PartFile name="brush support.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.35657076618244143</Mass>
+<CenterOfMass>0 0 0.087048458149779809</CenterOfMass>
+<Inertia>0.011878472381565799 0.011878472381565799 6.9370292782079622e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="brush support_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="brush" uid="brush*:*Default" version="335">
+<ModelUnits mass="kilogram" length="centimeter"/>
+<PartFile name="brush.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.1876609342489468</Mass>
+<CenterOfMass>0 0 0.25093064334104964</CenterOfMass>
+<Inertia>0.071925025358198225 0.071925025358198155 0.008030962666475485 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="brush_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="fan" uid="fan*:*Default" version="175">
+<ModelUnits mass="kilogram" length="centimeter"/>
+<PartFile name="fan.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.21641400833291244</Mass>
+<CenterOfMass>8.8333924386415055e-09 8.5654657259648558e-09 -0.019808491843957436</CenterOfMass>
+<Inertia>0.00034857919146478788 0.00034857919150936811 0.00064051223564403324 6.4166623309619046e-12 5.349102514064069e-12 0</Inertia>
+</MassProperties>
+<GeometryFile name="fan_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="filter sheet" uid="filter sheet*:*Default" version="146">
+<ModelUnits mass="kilogram" length="centimeter"/>
+<PartFile name="filter sheet.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.9543778756580306</Mass>
+<CenterOfMass>0.23577226361134115 -0.004397214484262368 0.0049951572587272975</CenterOfMass>
+<Inertia>0.088052870964837465 0.6812622539284795 0.76839710848528875 -4.8948007413853697e-06 3.8483602941591757e-06 0.0034943154451627461</Inertia>
+</MassProperties>
+<GeometryFile name="filter sheet_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="stand" uid="stand*:*Default" version="154">
+<ModelUnits mass="kilogram" length="centimeter"/>
+<PartFile name="stand.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>48.396570826471169</Mass>
+<CenterOfMass>-0.0246518667182027 -0.066824370085648871 0.13554603402127041</CenterOfMass>
+<Inertia>5.411067968922703 15.867083903633265 14.691089633365475 1.4426327163048958 0.53378121821250357 -0.33621385952671218</Inertia>
+</MassProperties>
+<GeometryFile name="stand_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="wheel support" uid="wheel support*:*Default" version="145">
+<ModelUnits mass="kilogram" length="centimeter"/>
+<PartFile name="wheel support.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.14235341711578753</Mass>
+<CenterOfMass>0 0 -0.020517241379310346</CenterOfMass>
+<Inertia>0.00012126655903109912 0.00012126655903109912 3.8733014894112443e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="wheel support_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="wheel" uid="wheel*:*Default" version="128">
+<ModelUnits mass="kilogram" length="centimeter"/>
+<PartFile name="wheel.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.59021886581154825</Mass>
+<CenterOfMass>-0.00020865214440645119 0 -0.014903125790097005</CenterOfMass>
+<Inertia>0.0010106958330585425 0.0010192906676982673 0.0019376529497494661 0 3.9904589398722224e-06 0</Inertia>
+</MassProperties>
+<GeometryFile name="wheel_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

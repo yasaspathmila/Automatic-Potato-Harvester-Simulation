@@ -1,0 +1,7 @@
+Potato assembly contains the exported simulink model from solidworks
+assemply.xml is the exported raw file
+parts folder contains all the solidowrks files
+
+brush simulation, siveing and fan simulation are the seperate simulations developed for the sub systems
+fan code contains initial code for simulating fan data 
+all motors combined contains the brush, sieving plate and fan motor matalb data analysis codes
